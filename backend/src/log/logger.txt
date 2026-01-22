@@ -1,0 +1,18 @@
+
+[Thu Jan 15 2026 15:22:57 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/all === error: relation "files" does not exist
+[Thu Jan 15 2026 15:24:52 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/all === error: relation "files" does not exist
+[Thu Jan 15 2026 15:26:56 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/all === ReferenceError: NotfoundError is not defined
+[Thu Jan 15 2026 15:27:57 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/all === error: relation "files" does not exist
+[Thu Jan 15 2026 15:28:19 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/all === error: relation "files" does not exist
+[Thu Jan 15 2026 15:29:59 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/all === error: relation "files" does not exist
+[Thu Jan 15 2026 15:31:32 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/all === error: relation "files" does not exist
+[Thu Jan 15 2026 15:33:46 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/all === error: relation "files" does not exist
+[Thu Jan 15 2026 15:37:34 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/oneUser === TypeError: Cannot read properties of undefined (reading 'id')
+[Thu Jan 15 2026 15:45:57 GMT+0500 (Uzbekistan Standard Time)]---[POST] --- /api/register === error: null value in column "avatar" of relation "users" violates not-null constraint
+[Thu Jan 15 2026 15:47:28 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/oneUser === TypeError: Cannot read properties of undefined (reading 'id')
+[Thu Jan 15 2026 15:48:08 GMT+0500 (Uzbekistan Standard Time)]---[GET] --- /api/files/oneUser === TypeError: Cannot read properties of undefined (reading 'id')
+[Fri Jan 16 2026 08:39:16 GMT+0500 (Uzbekistan Standard Time)]---[POST] --- /api/register === TypeError: next is not a function
+[Fri Jan 16 2026 09:27:37 GMT+0500 (Uzbekistan Standard Time)]---[POST] --- /send === Error: Missing credentials for "PLAIN"
+[Fri Jan 16 2026 09:32:46 GMT+0500 (Uzbekistan Standard Time)]---[POST] --- /api/files === TypeError: file.size.ceil is not a function
+[Fri Jan 16 2026 09:37:35 GMT+0500 (Uzbekistan Standard Time)]---[POST] --- /send === Error: Missing credentials for "PLAIN"
+[Fri Jan 16 2026 09:39:59 GMT+0500 (Uzbekistan Standard Time)]---[POST] --- /send === Error: Missing credentials for "PLAIN"
